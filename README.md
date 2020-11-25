@@ -1,2 +1,2 @@
 # Blender-Plan
-plans to download for Blender meetup
+Architectural plans to download for Blender demo
